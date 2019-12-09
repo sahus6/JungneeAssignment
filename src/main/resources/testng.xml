@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Junglee Automation Suite">
+
+	<test name="Junglee Suite">
+
+		<classes>
+			<class name="com.qa.junglee.tests.StartPageTests"></class>
+			<class name="com.qa.junglee.tests.LoginPageTests"></class>
+			<class name="com.qa.junglee.tests.RegisterPageTests"></class>
+			<class name="com.qa.junglee.tests.LobbyPageTests"></class>
+		</classes>
+	</test>
+</suite>

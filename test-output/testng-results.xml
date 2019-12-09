@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32038" started-at="2019-12-09T07:24:09 IST" finished-at="2019-12-09T07:24:41 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32038" started-at="2019-12-09T07:24:09 IST" finished-at="2019-12-09T07:24:41 IST">
+      <class name="com.qa.junglee.tests.LobbyPageTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.junglee.tests.LobbyPageTests@49fc609f]" name="setUp" is-config="true" duration-ms="13206" started-at="2019-12-09T07:24:09 IST" finished-at="2019-12-09T07:24:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="registerTest()[pri:1, instance:com.qa.junglee.tests.LobbyPageTests@49fc609f]" name="registerTest" duration-ms="2741" started-at="2019-12-09T07:24:22 IST" finished-at="2019-12-09T07:24:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.junglee.tests.LobbyPageTests@49fc609f]" name="tearDown" is-config="true" duration-ms="783" started-at="2019-12-09T07:24:25 IST" finished-at="2019-12-09T07:24:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.junglee.tests.LobbyPageTests@49fc609f]" name="setUp" is-config="true" duration-ms="12008" started-at="2019-12-09T07:24:26 IST" finished-at="2019-12-09T07:24:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:2, instance:com.qa.junglee.tests.LobbyPageTests@49fc609f]" name="loginTest" duration-ms="2534" started-at="2019-12-09T07:24:38 IST" finished-at="2019-12-09T07:24:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.junglee.tests.LobbyPageTests@49fc609f]" name="tearDown" is-config="true" duration-ms="719" started-at="2019-12-09T07:24:40 IST" finished-at="2019-12-09T07:24:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.junglee.tests.LobbyPageTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
